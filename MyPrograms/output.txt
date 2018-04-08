@@ -1,0 +1,29 @@
+Serial no.	 Token		 Lexeme		 Pattern
+
+      1		 Identifier	 include	 Letters and digits
+      2		 Identifier	 iostream	 Letters and digits
+      3		 Identifier	   using	 Letters and digits
+      4		 Identifier	 namespace	 Letters and digits
+      5		 Identifier	     std	 Letters and digits
+      6		 Keyword	     int	 Word with special meaning
+      7		 Identifier	    main	 Letters and digits
+      8		 Special symbol	       )	 Special Symbol      )
+      9		 Special symbol	       {	 Special Symbol      {
+     10		 Keyword	     int	 Word with special meaning
+     11		 Identifier	       a	 Letters and digits
+     12		 Digit		       2	 Numeric Constant
+     13		 Identifier	       b	 Letters and digits
+     14		 Digit		       3	 Numeric Constant
+     15		 Special symbol	       ;	 Special Symbol      ;
+     16		 Identifier	       c	 Letters and digits
+     17		 Identifier	       a	 Letters and digits
+     18		 Identifier	       b	 Letters and digits
+     19		 Identifier	    cout	 Letters and digits
+     20		 Identifier	       a	 Letters and digits
+     21		 Identifier	       b	 Letters and digits
+     22		 Identifier	       c	 Letters and digits
+     23		 Identifier	    endl	 Letters and digits
+     24		 Keyword	  return	 Word with special meaning
+     25		 Digit		       0	 Numeric Constant
+     26		 Special symbol	       ;	 Special Symbol      ;
+     27		 Special symbol	       }	 Special Symbol      }
