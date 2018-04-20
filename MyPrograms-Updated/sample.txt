@@ -1,0 +1,20 @@
+<<<<<<< HEAD
+#include<iostream>
+using namespace std;
+
+int main(){
+	int a=2,b=3;
+	c=a+b;
+	cout<<"a+b="<<c<<endl;
+	return 0;
+=======
+#include<iostream>
+using namespace std;
+
+int main(){
+	int a=2,b=3;
+	c=a+b;
+	cout<<"a+b="<<c<<endl;
+	return 0;
+>>>>>>> 63f01a10093bbe0919ec4a018c5280b9998052a0
+}
